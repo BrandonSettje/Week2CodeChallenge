@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\bin\Debug\CodechallengeWeek2.exe.config
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\obj\Debug\CodechallengeWeek2.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\bin\Debug\CodechallengeWeek2.exe
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\bin\Debug\CodechallengeWeek2.pdb
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\obj\Debug\CodechallengeWeek2.exe
+C:\Users\Technologist SP\Documents\GitHub\ClassProjects\CodechallengeWeek2\CodechallengeWeek2\obj\Debug\CodechallengeWeek2.pdb
